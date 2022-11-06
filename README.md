@@ -16,7 +16,7 @@ This project uses SWAPI to get star wars vehicles and to show the movies they ap
 7. If you want to run the E2E test, run `yarn cypress:run`
 
 
-![](../../../Desktop/swapi demo.gif)
+![](assets/swapi demo.gif)
 
 ### Technologies used
 - React
@@ -28,6 +28,6 @@ This project uses SWAPI to get star wars vehicles and to show the movies they ap
 
 ### Test Results
 #### Unit Tests
-<img src="../../../Desktop/swapi unit test.jpg" title="Unit Test Results" width="300"/>
+<img src="assets/swapi unit test.jpg" title="Unit Test Results" width="300"/>
 #### E2E Tests
-<img height="100" src="../../../Desktop/swapi e2e.jpg" title="E2E Test Results"/>
+<img height="100" src="assets/swapi e2e.jpg" title="E2E Test Results"/>
