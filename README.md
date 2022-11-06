@@ -15,8 +15,7 @@ This project uses SWAPI to get star wars vehicles and to show the movies they ap
 6. If you want to run the tests, run `yarn test`
 7. If you want to run the E2E test, run `yarn cypress:run`
 
-
-![](assets/swapi demo.gif)
+<img src="assets/swapi demo.gif" title="SWAPI demo video" width="400"/>
 
 ### Technologies used
 - React
