@@ -180,11 +180,12 @@ function App() {
                 <FormControl style={{ width: 100 }}>
                   <InputLabel id="select-label">Order By</InputLabel>
                   <Select
-                    labelId="select-label"
+                    data-testid={'order-id'}
                     id="select-order"
-                    value={sortOrder}
                     label="Order By"
+                    labelId="select-label"
                     onChange={handleSortChange}
+                    value={sortOrder}
                   >
                     <MenuItem value={"ASC"}>ASC</MenuItem>
                     <MenuItem value={"DESC"}>DESC</MenuItem>
